@@ -1,0 +1,123 @@
+
+.top{
+	
+	list-style-type:none;
+	margin-top:10px;
+	margin-right:10px;
+	margin-bottom:10px;
+	margin-left:1140px;
+	word-spacing:10px;
+}
+#googlelogo{
+	margin-top:110px;
+	margin-right:200px;
+	margin-bottom:10px;
+	margin-left:540px;
+	
+}
+#searchbar{
+	
+	margin-top:35px;
+	margin-right:200px;
+	margin-bottom:10px;
+	margin-left:180px; 
+	
+	}
+	
+.formulaire{
+	display:inline-block;
+	display:flex;
+	justify-content:center;
+	}
+	
+	
+.formulaire .champ{
+	width:600px; 
+	height:35px;
+	display:flex;
+	justify-content:center;
+	}
+	
+.formulaire .bouton{ 
+	background-image:url(loupe.png) ;
+	
+	width: 40px;
+	height: 40px;
+	padding: 0; 
+	}
+	
+	.formulaire .vocal{ 
+	background-image:url(vocal.png) ;
+	
+	width: 40px;
+	height: 40px;
+	padding: 0; 
+	}
+#searchbuttons{display:flex;
+	justify-content:center;
+	margin-top:30px;
+	margin-bottom:10px;
+	
+	}
+
+
+#searchbuttongoogle{
+	width: 80px;
+	height: 80px;
+	padding: 0; 
+	
+	
+}
+#searchbuttonluck{
+	width: 80px;
+	height: 80px;
+	padding: 0; 
+	}
+	
+#vivacorona{
+	position:relative;
+	margin-top:0px;
+	margin-right:100px;
+	margin-bottom:0px;
+margin-left:450px; }
+
+#vivacorona2{
+	position:absolute;
+	margin-top:-32px;
+	margin-right:200px;
+	margin-bottom:0px;
+margin-left:500px; }
+
+.divdefin{
+background-color:#F0FFF0;}
+
+.language{
+	
+	margin-top:85px;
+	margin-right:800px;
+	margin-bottom:40px;
+	margin-left:0px; 
+	word-spacing:2.5px}
+
+.avandernier1{
+	
+	position:relative;
+	margin-top:-15px;
+	margin-right:800px;
+	margin-bottom:-40px;
+	margin-left:px; 
+	word-spacing:2.5px}
+.dernier1{
+
+	position:absolute;
+	margin-top:20px;
+	margin-right:0px;
+	margin-bottom:-40px;
+	margin-left:800px; 
+	word-spacing:2.5px}
+	
+.barresearch[
+
+    width: 100000px;
+	height:10000px
+}
